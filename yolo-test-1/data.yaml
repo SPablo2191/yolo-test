@@ -1,0 +1,15 @@
+names:
+- azul
+- naranja
+- rojo
+- verde
+nc: 4
+roboflow:
+  license: CC BY 4.0
+  project: yolo-test-os8xs
+  url: https://universe.roboflow.com/sandokan/yolo-test-os8xs/dataset/1
+  version: 1
+  workspace: sandokan
+test: D:\Workshop\yolo-test\yolo-test-1\test\images
+train: D:\Workshop\yolo-test\yolo-test-1\train\images
+val: D:\Workshop\yolo-test\yolo-test-1\valid\images
